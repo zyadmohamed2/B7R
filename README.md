@@ -95,21 +95,21 @@ The B7R application leverages a variety of modern technologies and libraries to 
 - **Purchasing Products**: Users can purchase products related to the activities they are interested in.
 
 ## Screenshots
-![Coach Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/4674f889-0009-44be-a878-3367732a67c1)
-![Training session Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/80952d4b-a459-4eb6-abba-cdb2353f8f3f)
-![Trip Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/75cff362-c70b-49ca-95ea-968e56debfb5)
-![Profile Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/229fcad6-043b-4282-bc0e-684c15681dd9)
-![Referral Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/d9ad2aab-fa3c-4af7-9973-541bb475593d)
-![Vouchers Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/b4247bbe-bc84-4cd8-8ce0-21e0daf48993)
-![add Payment Method](https://github.com/zyadmohamed2/B7R/assets/107200112/ede6da6d-ab72-4b59-b202-382c79cea28e)
-![Packages](https://github.com/zyadmohamed2/B7R/assets/107200112/27647c81-05f1-4fd0-85d2-4d6f0520a4ae)
-![Ad Screen Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/867a0301-3c15-4d3c-9b56-928076ecda7f)
-![place your ad](https://github.com/zyadmohamed2/B7R/assets/107200112/7fa5b59b-4c54-480a-af8a-67f02e9ef25d)
-![Chat](https://github.com/zyadmohamed2/B7R/assets/107200112/294a2ec8-4316-4f9c-83c6-e8f7fd7e045e)
-![Start Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/f50bb679-64e1-41e4-b1b7-613215eeea51)
-![Log-In Screen - Virify](https://github.com/zyadmohamed2/B7R/assets/107200112/02679f72-26e4-4bf9-a5ce-e0964e9f23c2)
-![Enter Informations](https://github.com/zyadmohamed2/B7R/assets/107200112/3a1f0cbd-3af8-4e69-9cb8-690fa27e0d52)
-![Log-In Screen - Done](https://github.com/zyadmohamed2/B7R/assets/107200112/b92d4151-a1ff-446a-8803-a6af6948c0e3)
-![Fishing trips](https://github.com/zyadmohamed2/B7R/assets/107200112/0e4da008-16ca-4ab3-8377-3cddf2002d06)
-![Home Screen](https://github.com/zyadmohamed2/B7R/assets/107200112/7551537d-d25b-4e94-bf80-4df2f2a24c91)
-![Marin sports screen](https://github.com/zyadmohamed2/B7R/assets/107200112/4fff1b44-5582-4afb-b96b-ed1ec090f9c2)
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/4674f889-0009-44be-a878-3367732a67c1" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/80952d4b-a459-4eb6-abba-cdb2353f8f3f" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/75cff362-c70b-49ca-95ea-968e56debfb5" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/229fcad6-043b-4282-bc0e-684c15681dd9" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/d9ad2aab-fa3c-4af7-9973-541bb475593d" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/b4247bbe-bc84-4cd8-8ce0-21e0daf48993" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/ede6da6d-ab72-4b59-b202-382c79cea28e" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/27647c81-05f1-4fd0-85d2-4d6f0520a4ae" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/867a0301-3c15-4d3c-9b56-928076ecda7f" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/7fa5b59b-4c54-480a-af8a-67f02e9ef25d" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/294a2ec8-4316-4f9c-83c6-e8f7fd7e045e" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/f50bb679-64e1-41e4-b1b7-613215eeea51" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/02679f72-26e4-4bf9-a5ce-e0964e9f23c2" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/3a1f0cbd-3af8-4e69-9cb8-690fa27e0d52" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/b92d4151-a1ff-446a-8803-a6af6948c0e3" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/0e4da008-16ca-4ab3-8377-3cddf2002d06" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/7551537d-d25b-4e94-bf80-4df2f2a24c91" width="300" >
+<img src="https://github.com/zyadmohamed2/B7R/assets/107200112/4fff1b44-5582-4afb-b96b-ed1ec090f9c2" width="300" >
